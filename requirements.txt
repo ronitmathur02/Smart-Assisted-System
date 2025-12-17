@@ -1,7 +1,0 @@
-ultralytics
-torch
-torchvision
-opencv-python-headless
-numpy
-flask
-gunicorn
